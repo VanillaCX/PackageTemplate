@@ -14,7 +14,8 @@
   "dependencies": {
       "@VanillaCX/Store": "github:VanillaCX/Store",
       "@VanillaCX/Query": "github:VanillaCX/Query",
-      "@VanillaCX/Schema": "github:VanillaCX/Schema"
+      "@VanillaCX/Schema": "github:VanillaCX/Schema",
+      "dotenv": "^16.3.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
