@@ -2,4 +2,4 @@ class DefaultModule {
     constructor(){}
 }
 
-module.exports = { DefaultModule }
+module.exports = {DefaultModule}

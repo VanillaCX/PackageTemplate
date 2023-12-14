@@ -1,3 +1,3 @@
-const {DefaultModule} = require("./modules/default");
+const {DefaultModule} = require("./modules/Default");
 
 module.exports = {DefaultModule}
